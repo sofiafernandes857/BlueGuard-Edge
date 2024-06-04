@@ -39,31 +39,27 @@ Mais que 3 barras acessas: indica que o ambiente está ácido.
 - Conecte a placa LCD a linha negativa da protoboard, o segundo terminal na linha positiva da protoboard, o terceiro terminal no pino analógio A4 e o último terminal no pino analógico A5.
 - A seguir, uma imagem para auxiliar na montagem:
 
-    <img src="CheckPoint.JPG"/>
+    <img src="Arduino.JPG"/>
 
 **2. Codificação do Arduino:**
 
-- Abra o Arduino IDE ou utilize a plataforma online Tinkercad para escrever o código.
+- Abra o Arduino IDE ou utilize a plataforma online Wokwi para escrever o código.
 - Copie o [código fornecido](Codigo.cpp) e cole no editor de código do Arduino.
 - Verifique se o código está de acordo com a montagem do seu circuito.
 
 **3. Teste do sistema:**
 
-- Observe o comportamento dos LEDs e do buzzer de acordo com a luminosidade do ambiente.
-- Teste diferentes níveis de luminosidade para verificar a resposta do sistema.
+- Observe os dados mostrados no LCD dos sensores DS18B20, LDR e Potenciômetro.
+- Teste diferentes níveis de temperatura, luz e ph para verificar a resposta do sistema.
 
 **4. Ajustes (se necessário):**
 
-- Se os limiares de luminosidade ou o comportamento dos LEDs/buzzer precisarem ser ajustados, faça as modificações no código conforme necessário.
+- Se os limiares de luz, temperatura ee turbidez ou o comportamento do bargraph e LCD precisarem ser ajustados, faça as modificações no código conforme necessário.
 
 ## Autores
 
 - [@AliAndrea1](https://github.com/AliAndrea1)
 
-- [@brunacostaz](https://github.com/brunacostaz)
-
 - [@Laurasdc](https://github.com/Laurasdc)
-
-- [@querenprates](https://github.com/querenprates)
 
 - [@sofiafernandes857](https://github.com/sofiafernandes857)
