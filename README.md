@@ -10,6 +10,9 @@ Menos que 3 barras acessas: indica que o ambiente está básico.
 
 Mais que 3 barras acessas: indica que o ambiente está ácido.
 
+## Link do Simulador
+https://wokwi.com/projects/399443114618051585
+
 ## Dependências - Materiais Necessários
 
 | Quantidade        | Componente                                                       |
@@ -39,7 +42,7 @@ Mais que 3 barras acessas: indica que o ambiente está ácido.
 - Conecte a placa LCD a linha negativa da protoboard, o segundo terminal na linha positiva da protoboard, o terceiro terminal no pino analógio A4 e o último terminal no pino analógico A5.
 - A seguir, uma imagem para auxiliar na montagem:
 
-    <img src="Arduino.JPG"/>
+    <img src="Arduino.PNG"/>
 
 **2. Codificação do Arduino:**
 
