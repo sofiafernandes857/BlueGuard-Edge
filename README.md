@@ -42,7 +42,7 @@ https://wokwi.com/projects/399443114618051585
 - Conecte a placa LCD a linha negativa da protoboard, o segundo terminal na linha positiva da protoboard, o terceiro terminal no pino analógio A4 e o último terminal no pino analógico A5.
 - A seguir, uma imagem para auxiliar na montagem:
 
-    <img src="Arduino.PNG"/>
+    <img src="Arduino.png"/>
 
 **2. Codificação do Arduino:**
 
