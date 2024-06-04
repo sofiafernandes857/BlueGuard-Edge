@@ -1,7 +1,7 @@
-#include <Wire.h>
-#include <LiquidCrystal_I2C.h>
-#include <OneWire.h>
-#include <DallasTemperature.h>
+#include <Wire.h> // Faz comunicação com I2C
+#include <LiquidCrystal_I2C.h> //Inclui a biblioteca para o LCD
+#include <OneWire.h> // biblioteca para o DS18B20
+#include <DallasTemperature.h> //Inclui a biblioteca para o DS18B20
 
 // Configuração do display LCD I2C
 LiquidCrystal_I2C lcd(0x27, 16, 2);
